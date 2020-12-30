@@ -12,6 +12,7 @@ Adım 1: **bennylift** klasörünü kopyalayın ve kaynak klasörününüze yap�
 Adım 2: **server.cfg** dosyanızı açın ve **start bennylift** ekleyin.
 
 - DAHA FAZLA BİLGİ
+
 1) Dışarıdaki ymap'i istemiyorsanız, şu dosyayı silin: **bennyoutsidegate.ymap**
 
 (EN)
@@ -26,4 +27,5 @@ Step 1 : Copy/Past the folder "bennylift" on your resource folder.
 Step 2 : Open your server.cfg and start/ensure **bennylift**.
 
 - MORE INFO
-1 ) If you don't want the mapping outside, just delete : **bennyoutsidegate.ymap** file.
+
+1) If you don't want the mapping outside, just delete : **bennyoutsidegate.ymap** file.

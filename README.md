@@ -4,10 +4,12 @@
 ### Kurulum:
 
 - Harita
+
 Adım 1: **bigbenny** klasörünü kopyalayın ve kaynak klasörününüze yapıştırın.
 Adım 2: server.cfg ve Start / Encure bigbenny dosyanızı açın.
 
 - Script
+
 Adım 1: **bennylift** klasörünü kopyalayın ve kaynak klasörününüze yapıştırın.
 Adım 2: **server.cfg** dosyanızı açın ve **start bennylift** ekleyin.
 
@@ -19,10 +21,12 @@ Adım 2: **server.cfg** dosyanızı açın ve **start bennylift** ekleyin.
 ### Install: 
 
 - Mapping
+
 Step 1 : Copy/Past the folder "bigbenny" on your resource folder.
 Step 2 : Open your server.cfg and start/ensure **bigbenny**.
 
 - Script
+
 Step 1 : Copy/Past the folder "bennylift" on your resource folder.
 Step 2 : Open your server.cfg and start/ensure **bennylift**.
 

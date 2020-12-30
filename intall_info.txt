@@ -1,0 +1,52 @@
+--------------------------------------------------------------------------------------------------------------------
+Install : 
+
+Mapping
+step 1 :  Copy/Past the folder " bigbenny" on your resource folder .
+step 2 : Open your server.cfg and Start/Encure bigbenny.
+
+script
+step 1 : Copy/Past the folder "bennylift" on your resource folder.
+step 2 : Open your server.cfg and Start/Ensure bennylift
+
+!!!!!!!!!!!!!MORE INFO!!!!!!!!!!!!!
+1 ) If you don't want the mapping outside, just delete : bennyoutsidegate.ymap file
+2 ) ONE CAR MAX on the lift
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+OUTSIDE : 
+
+place : first door
+Name of door : hei_prop_station_gate
+position : X:-243.9855 Y:-1302.753 Z:30.30171
+
+place : second outdoor
+Name of door : prop_facgate_07b
+position : X:-180.1072 Y:-1293.118 Z:30.31945
+
+
+-----------------------------------------------------------------
+
+Benny's
+
+place : big red door
+Name of door : lr_prop_supermod_door_01
+position : X:-205.6828 Y:-1310.683 Z:30.29572
+
+place : sliding right
+Name of door : v_ilev_bl_doorsl_r
+position : X:-205.2142 Y:-1328.09 Z:29.84439
+
+place : green door
+Name of door : v_ilev_ct_door03
+position : X:-202.8701 Y:-1330.382 Z:31.0128
+
+place : cloakroom green door
+Name of door : v_ilev_ct_door03
+position : X:-203.6549 Y:-1331.643 Z:23.20492
+
+place : boosroom
+Name of door : v_ilev_ph_gendoor002
+position : X:-202.8535 Y:-1335.839 Z:34.9894
